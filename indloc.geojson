@@ -1,0 +1,1976 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gudivada, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.992630, 16.441025]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dhinoj, Patan, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.279541, 23.661324]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Idappadi, Salem, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.849998, 11.580000]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chitalwana, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [71.659721, 24.924999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pugal, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.800003, 28.500000]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Doom Dooma, Assam, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [95.570000, 27.570000]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Usar, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.131744, 18.291109]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sirsi, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.835403, 14.619500]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Perinad, Kerala, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.640022, 8.956280]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "New Terhi, Uttarakhand, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.480003, 30.379999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cheekode, Kerala, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.989342, 11.230430]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Palani, Dindigul, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.519997, 10.450000]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Theni Allinagaram, Theni, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.478615, 10.011944]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bhawani Mandi, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.829720, 24.420000]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Beldanga, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [88.250000, 23.930000]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Vedasandur, Thamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.922646, 10.530206]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Paniyara, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [83.463402, 26.997454]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nagarbera, Assam, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [91.003578, 26.111790]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Atgaon, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.330368, 19.502623]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Malur, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.937111, 12.990000]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Munnar, Idukki, Kerala, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.059723, 10.089167]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Demjok, Jammu and Kashmir, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.449516, 32.699909]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Umerkote, Odisha, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [82.211998, 19.665001]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mohone, Kalyan, Thane, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.172371, 19.265133]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shiroor, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.599342, 13.916197]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kuwerpur, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.118172, 27.217766]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Holnanthe, Pashte, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.900551, 21.204906]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Asopur, Rukanpura, Patna, Bihar, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [85.043251, 25.589420]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sagardighi, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [88.086357, 24.292355]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Siolim, Goa, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.777222, 15.620090]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rahika, Bihar, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [86.020332, 26.378592]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Veerabhadrapeta, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [83.194374, 18.038063]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bagseen, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.927742, 25.035452]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Laikera, Odisha, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [84.212807, 21.884956]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Piliv, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.966156, 17.682156]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Patnitop, Jammu and Kashmir, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.326912, 33.077778]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Peer Muchalla, Punjab, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.863342, 30.661608]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rambha, Odisha, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [85.090126, 19.520241]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Idappadi, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.837013, 11.584286]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lasadiya, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.240730, 24.257906]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pimpalgaon Baswant, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.987991, 20.165369]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Maganpur, Jharkhand, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [85.781036, 23.565374]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Banki, Odisha, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [85.530029, 20.377754]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Goilkera, Jharkhand, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [85.376640, 22.507088]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Amethi, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [81.813087, 26.153912]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alur, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.426003, 17.695965]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Belda, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [87.338417, 22.070757]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mohania, Bihar, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [83.617294, 25.166819]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bichhiya, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.709236, 22.451139]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nasrala, Punjab, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.824310, 31.489271]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Amritpur, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.597565, 27.540354]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Basari, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.717812, 24.823471]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pothencode, Kerala, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.898430, 8.620447]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kalaghatagi, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.967094, 15.192222]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Natepute, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.754189, 17.898615]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chhibramau, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.497009, 27.148756]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nainpur, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.109558, 22.426605]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Asotra, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.294334, 25.764273]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nasirabad, Ajmer, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.734558, 26.297997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chandrakona Road, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [87.339088, 22.733934]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Veerakeralampudur, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.449501, 8.937609]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rajpipila, Gujarat , India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.502701, 21.871710]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chowannur, Kerala, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.078346, 10.650540]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Aatarsumba, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.966629, 23.052139]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puthalam, Kanyakumari, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.466888, 8.106106]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Simri, Bihar, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [86.349442, 26.005791]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ganj Basoda, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.927055, 23.851988]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Maipit, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [88.544647, 21.919558]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Naranda, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.058151, 19.781528]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gawan, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.351059, 28.421179]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rahatgaon, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.228226, 22.246750]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fatehpur Sikri, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.668846, 27.095018]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ghumansar Khurd, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.483482, 28.243910]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Panwaria, Rampur, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.056107, 28.760918]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shirala, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.129868, 16.985617]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jakhinwadi, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.168594, 17.238325]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Galleborgaon, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.123199, 20.090658]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Patharkandi, Assam, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [92.317726, 24.607124]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chopta, Uttarakhand, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.048386, 30.346434]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lipti, Chhattisgarh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [83.402977, 22.636292]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hatkanangale, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.446701, 16.744560]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mothkur, Telangana, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.259460, 17.472683]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dharampur, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.179214, 20.540140]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bawal, Haryana, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.592751, 28.095589]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Thasra, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.220505, 22.802561]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lohagad, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.487259, 18.694317]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Parwaha, Bihar, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [87.226997, 26.233364]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jamtala, Jalabaria, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [88.572548, 22.108612]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taraori, Haryana, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.923973, 29.799627]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kayalpatnam, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.123833, 8.568315]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bhatgaon, Chhattisgarh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [82.803757, 21.655977]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Angul, Odisha, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [85.151085, 20.844402]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Deogarh, Odisha, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [84.728943, 21.538315]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sanwer, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.827553, 22.976303]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dalsingh Sarai, Bihar, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [85.834892, 25.668974]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalalabad, Punjab, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.256111, 30.605730]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Takarwan, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.012505, 19.250380]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Purena, Raipur, Chhattisgarh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [81.704781, 21.238678]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Reoti, Bihar, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [84.377197, 25.852959]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mau, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [83.561226, 25.941614]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Anklav, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.034164, 22.318743]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Angunagar, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.119766, 10.788459]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shamgarh, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.639900, 24.188900]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lasur, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.223923, 19.735981]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Vadtal, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.803757, 22.621059]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lakhania, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [83.081429, 24.607359]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lanja, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.548477, 16.852417]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sanand, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.383240, 22.992529]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kanwat, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.940598, 27.889162]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nagalapuram, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.790009, 13.450382]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Challapalle, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.920830, 16.117737]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bhogapuram, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [83.595856, 18.015450]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pithampur, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.684998, 22.597921]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kaniyur, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.931137, 11.077947]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mushabani, Jharkhand, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [86.458420, 22.527884]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Digvijaygram, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [70.593674, 22.421059]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Paranda, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.393402, 18.271990]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Khatauli, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.728119, 29.278519]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Baloda Bazar, Chhattisgarh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [82.161018, 21.656046]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tirwa, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.902214, 26.896343]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kot Kapura, Punjab, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.823372, 30.581636]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rayadrug, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.270264, 14.700640]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chincholi, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.667358, 19.889887]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dhamangaon, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.899452, 20.707621]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chinnakakani, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.580063, 16.362549]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mandawar, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.133614, 28.707596]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Khairabad, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.755203, 27.526308]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Jath, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.220276, 17.502991]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Andipatti, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.621880, 9.996282]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Koilkuntla, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.324135, 15.233527]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Baragaon, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [82.956284, 25.430662]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Kurag, Himachal Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.693802, 32.026688]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Gudur, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.850029, 14.149795]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Kolur, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.618568, 15.412110]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Gurh, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [81.527901, 24.521999]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Dhanaula, Punjab, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.578552, 30.282888]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Lachhmangarh, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.029678, 27.822207]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Madikeri, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.733849, 12.424338]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Yelbarga, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.013153, 15.617661]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Arsikere, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.257813, 13.313606]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Pandua, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [88.281799, 23.076963]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Chhachhrauli, Haryana, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.358810, 30.257841]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Karjat, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.552856, 18.909399]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Sunabeda, Odisha, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [82.869629, 18.724417]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Ghosia Bazar, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [82.834358, 25.422228]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Bhojudih, Jharkhand, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [86.435883, 23.620567]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Sikandra, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.380356, 27.298023]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Mayuram, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.652344, 11.104223]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Aland, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.568817, 17.564392]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Chikhli, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.255112, 20.350140]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Sirauli, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.272743, 28.649155]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Ranipur, Uttarakhand, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.828819, 29.866030]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Jaggayyapeta, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.097969, 16.893654]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Dandeli, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.617615, 15.247497]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Raghunathpur, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [86.665886, 23.547890]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Birnagar, West Bengal, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [88.634003, 23.332626]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Turuvekere, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.667900, 13.164681]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Omerga, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.549507, 17.839111]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Chintamani, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.051155, 13.401376]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Ankola, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.314201, 14.660539]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Hindaun, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.014236, 26.715778]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Neemuch, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.854279, 24.472054]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Manapparai, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.424812, 10.607101]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Raybag, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.774002, 16.485893]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Baliapur, Jharkhand, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [86.538071, 23.661980]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Ajeetgarh, Rajasthan, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.735550, 27.309851]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Patti, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [82.207916, 25.920259]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Sailana, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.922585, 23.462000]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "R.S. Mangalam, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.660225, 9.319212]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Maddur, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.991409, 16.865444]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Chikhli, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.065208, 20.351191]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Dhanera, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.020920, 24.508049]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Tekanpur, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.273529, 26.423120]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Madhugiri, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.211395, 13.660573]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Sukalwad, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.658470, 16.196240]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Chongkham, Arunachal Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [95.445801, 27.940069]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Maheshwar, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.587166, 22.174646]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Mahudha, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.940788, 22.818565]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Tanda, Punjab, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.682335, 31.664650]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Bhachau, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [70.348839, 23.298733]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Tajpul, Bihar, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [86.032089, 25.848604]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Bina, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.169067, 24.198526]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Lakshmeshwar, Karnataka, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.469276, 15.126180]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Nagina, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.436287, 29.444624]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Thenthamaraikulam, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.519409, 8.198434]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Sadras, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.249924, 12.517835]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Ammapettai, Tamil Nadu, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.687775, 11.446070]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Bhikangaon, Madhya Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.045502, 21.866667]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Kanuru, Andhra Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [80.654137, 16.285582]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Joya, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.059303, 28.828438]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Akkalkot, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.206207, 17.525293]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Nadiad, Gujarat, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [72.862289, 22.688379]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Etawah, Uttar Pradesh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.009087, 26.776514]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Chapar, Assam, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [90.446182, 26.272469]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Kargil, Ladakh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [76.133598, 34.553390]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Pendra, Chhattisgarh, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [81.965424, 22.776636]
+        }
+      },
+      {
+        "type": "Feature",
+          "properties": {
+          "name": "Pen, Maharashtra, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [73.099899, 18.737848]
+        }
+    }]
+}
+
+  
