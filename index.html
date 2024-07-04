@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Map of Rajasthan</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map { height: 100vh; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        var map = L.map('map').setView([27.0238, 74.2179], 7); // Centered on Rajasthan, India
+
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Load districts GeoJSON asynchronously
+        fetch('C:\\Internship\\Charting\\rajdist\\rajdist copy.js')
+            .then(response => response.json())
+            .then(districtsGeojson => {
+                // Add GeoJSON layer to the map
+                L.geoJSON(districtsGeojson, {
+                    style: function (feature) {
+                        return {
+                            color: '#3388ff', // Blue color for district boundaries
+                            weight: 2,
+                            opacity: 0.6
+                        };
+                    },
+                    onEachFeature: function (feature, layer) {
+                        if (feature.properties && feature.properties.name) {
+                            layer.bindPopup(feature.properties.name);
+                        }
+                    }
+                }).addTo(map);
+            })
+            .catch(error => {
+                console.error('Error loading GeoJSON:', error);
+            });
+
+        // Add a marker for Jaipur
+        var jaipurMarker = L.marker([26.9124, 75.7873]).addTo(map);
+        jaipurMarker.bindPopup("<b>Jaipur</b>").openPopup();
+    </script>
+</body>
+</html>
+    
